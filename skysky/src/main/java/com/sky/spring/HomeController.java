@@ -40,6 +40,7 @@ public class HomeController {
 		
 		System.out.println("변");
 		logger.info("변");
+		logger.info("집에보내줘");
 		System.out.println("지후니의 리퀘스트 요청");
 		logger.info("지후니의 리퀘스트 요청");
 		logger.info("ㅅㅅ");
