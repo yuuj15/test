@@ -26,8 +26,6 @@ public class HomeController {
 	public String home(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
 
-		logger.info("�̵���!");
-		logger.info("������!");
 		logger.info("도욱도욱도욱도욱도욱");
 
 		logger.info("이동진!");
