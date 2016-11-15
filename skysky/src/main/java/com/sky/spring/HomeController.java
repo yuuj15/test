@@ -33,6 +33,13 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
+		
+		
+		
+		System.out.println("변");
+		logger.info("변");
+		
+		
 		return "home";
 	}
 	
