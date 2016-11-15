@@ -38,7 +38,7 @@ public class HomeController {
 		logger.info("변");
 		System.out.println("지후니의 리퀘스트 요청");
 		logger.info("지후니의 리퀘스트 요청");
-		
+		logger.info("ㅅㅅ");
 		return "home";
 	}
 	
